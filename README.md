@@ -1,0 +1,2 @@
+# MyBlog
+rails-application
